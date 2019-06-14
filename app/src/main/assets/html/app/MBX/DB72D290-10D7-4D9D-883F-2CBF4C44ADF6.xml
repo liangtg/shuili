@@ -1,0 +1,103 @@
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="DB72D290-10D7-4D9D-883F-2CBF4C44ADF6" platform="MtMobile" defaultW="414" defaultH="736" measureW="414" measureH="736" screenOrientation="MoPortrait" mobileScreenScale="1.77777779102325" clipArea="(0,0,0,0)">
+  <controls controlCount="13">
+    <control controlID="BB058C3A-ED92-4D72-9304-06F4F87CC4B2" controlTypeID="Panel" x="0" y="0" w="414" h="40" zOrder="0">
+      <caption>Title%E9%9D%A2%E6%9D%BF</caption>
+      <color>4284927231</color>
+      <borderColor>6710886</borderColor>
+      <borderVisible>False</borderVisible>
+      <opacity>0.899999976158142</opacity>
+      <groupChildrenDescriptors>
+        <control controlID="65C97096-E588-40EA-AE2F-D5AE9F039163" controlTypeID="Border" x="0" y="0" w="414" h="40" zOrder="0">
+          <borderColor>6710886</borderColor>
+          <borderVisible>False</borderVisible>
+          <alias>borderLayer</alias>
+        </control>
+      </groupChildrenDescriptors>
+      <thinkness>1</thinkness>
+    </control>
+    <control controlID="FB69BB1E-52A9-4272-AB3A-56AE81AD0353" controlTypeID="Label" x="37" y="11" w="64" h="22" zOrder="1">
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91+Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False"/>
+      <text>%E9%97%AE%E9%A2%98%E5%88%97%E8%A1%A8</text>
+      <textColor>4294967295</textColor>
+      <textSize>16</textSize>
+      <textVAlign>VaTop</textVAlign>
+      <lineSpacing>0</lineSpacing>
+      <textStyles>[fsBold]</textStyles>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="4C0D20D3-0CC2-440C-8EB4-C4F97EC3D5B4" controlTypeID="Shape" x="0" y="40" w="414" h="107" zOrder="2">
+      <borderColor>4292335575</borderColor>
+      <font family="" displayName="" postScript="" weightStyle="Regular" weight="0" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="B3E4EC85-9A19-4FFF-B06E-D40F2F726815" controlTypeID="Label" x="115" y="60" w="80" h="26" zOrder="3">
+      <font family="" displayName="" postScript="" weightStyle="Regular" weight="0" isBold="False" isItalic="False"/>
+      <text>%E6%B4%AA%E6%B0%B4%E6%BA%83%E5%9D%9D</text>
+      <textSize>20</textSize>
+      <textVAlign>VaTop</textVAlign>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="40A4606F-C53D-4196-8EEA-04DD9777BD28" controlTypeID="Label" x="296" y="59" w="108" h="16" zOrder="4">
+      <font family="" displayName="" postScript="" weightStyle="Regular" weight="0" isBold="False" isItalic="False"/>
+      <text>2019-06-05+10%3A21%3A00</text>
+      <textSize>12</textSize>
+      <textVAlign>VaTop</textVAlign>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="3068E257-B8CD-4288-9789-4199B165A27D" controlTypeID="TextArea" x="10" y="100" w="315" h="39" zOrder="5">
+      <font family="" displayName="" postScript="" weightStyle="Regular" weight="0" isBold="False" isItalic="False"/>
+      <text>%E5%AF%B9%E8%B1%A1%E5%90%8D%E7%A7%B0%EF%BC%9A%E5%8C%97%E4%BA%AC%E5%B8%82%E5%AF%86%E4%BA%91%E5%8C%BA%E6%B2%B3%E9%81%93%E6%B2%BB%E7%90%86%E5%B7%A5%E7%A8%8B</text>
+      <textColor>4288782753</textColor>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="E2B42058-B8AE-4C6D-B2EC-C2FA5D92BEFF" controlTypeID="Image" x="11" y="12" w="22" h="22" zOrder="6">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="C8A2E200-D259-E811-81A0-784F43A3984D" linkType="ltPageLink" isApplyIncludePage="False" title="%E9%A6%96%E9%A1%B5">
+          <area shape="0" alt="" ID="{64D98063-E4FE-4921-B87A-58144E936A36}" coords="(0,0,22,22)"/>
+        </link>
+      </links>
+      <URL>0DF0EB8D1E4A29C54F6978F5A61EA02A.png</URL>
+    </control>
+    <control controlID="8F4052F1-B393-4D51-8051-365C5FEEEADB" controlTypeID="Image" x="372" y="85" w="32" h="32" zOrder="7">
+      <URL>B7D38DA74D76CDFF0887B849741F1FA5.png</URL>
+    </control>
+    <control controlID="A40F11D4-A05E-4ED1-AE89-57FF2C4CADB8" controlTypeID="__group__" x="10" y="61" w="90" h="24" zOrder="8">
+      <groupChildrenDescriptors>
+        <control controlID="51D9196E-9C9B-44F7-BEC5-E04021FB2144" controlTypeID="Shape" x="0" y="0" w="90" h="24" zOrder="0">
+          <color>4294901760</color>
+          <borderVisible>False</borderVisible>
+          <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <textSize>14</textSize>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="6BC073B3-AEDA-4858-98C4-E395B0C1C8BC" controlTypeID="Label" x="14" y="4" w="56" h="18" zOrder="1">
+          <font family="" displayName="" postScript="" weightStyle="Regular" weight="0" isBold="False" isItalic="False"/>
+          <text>%E9%9D%9E%E5%B8%B8%E4%B8%A5%E9%87%8D</text>
+          <textColor>4294967295</textColor>
+          <textVAlign>VaTop</textVAlign>
+          <lineSpacing>0</lineSpacing>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="85A3A54A-9572-4385-A944-EC1FFD3CA4E1" controlTypeID="HotSpot" x="0" y="41" w="414" h="106" zOrder="9">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="17C6AE4E-850E-4971-8F8D-65C1D3A0C9D0" linkType="ltPageLink" isApplyIncludePage="False" title="%E9%97%AE%E9%A2%98%E5%A4%8D%E6%9F%A5">
+          <area shape="0" alt="" ID="{AED98DAA-447C-48BE-9D59-02C02149AAD2}" coords="(0,0,414,106)"/>
+        </link>
+      </links>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>0</fontSize>
+    <fontFamily/>
+    <guideLines/>
+  </param>
+</mockup>
